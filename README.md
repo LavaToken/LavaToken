@@ -6,7 +6,7 @@
 
 🎓&nbsp; CS '27 &nbsp;•&nbsp; Creative Technologist &nbsp;•&nbsp; Growth Engineer
 <br>
-🌱&nbsp; Growth &nbsp;•&nbsp; Forward-deployed engineering &nbsp;•&nbsp; Automation & dashboards
+🌱&nbsp; Forward-deployed engineering &nbsp;•&nbsp; Automation & dashboards
 <br>
 📷&nbsp; Photography & videography &nbsp;•&nbsp; Story-driven vlogging
 <br>
