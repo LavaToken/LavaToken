@@ -1,10 +1,3 @@
-<div align="center">
-
-# Hey hey
-### I'm Kevin, a creative technologist & growth engineer wannabe
-
-</div>
-
 <table>
 <tr>
 <td width="62%" valign="middle">
