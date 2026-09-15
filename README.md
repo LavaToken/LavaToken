@@ -4,15 +4,13 @@
 
 <div align="center">
 
-🎓&nbsp; UC Davis CS '27 &nbsp;•&nbsp; Creative Technologist &nbsp;•&nbsp; Growth Engineer
+🎓&nbsp; CS '27 &nbsp;•&nbsp; Creative Technologist &nbsp;•&nbsp; Growth Engineer
 <br>
-🌱&nbsp; Growth loops &nbsp;•&nbsp; Forward-deployed engineering &nbsp;•&nbsp; Automation & dashboards
+🌱&nbsp; Growth &nbsp;•&nbsp; Forward-deployed engineering &nbsp;•&nbsp; Automation & dashboards
 <br>
 📷&nbsp; Photography & videography &nbsp;•&nbsp; Story-driven vlogging
 <br>
-🧑‍💼&nbsp; Co-President @ CASA, UC Davis &nbsp;•&nbsp; Building with DecodeNeuro
-<br>
-🎮&nbsp; Keyboards & PC building &nbsp;•&nbsp; Speedcubing &nbsp;•&nbsp; Games & Anime
+🎮&nbsp; Keyboards & PC building &nbsp;•&nbsp; Speedcubing
 
 <br><br>
 
