@@ -1,9 +1,18 @@
-🎓  Computer Science Student •  Creative Technologist  •  Growth Engineer   
+<table>
+  <tr>
+    <td valign="middle">
 
-🌱  Growth  •  Forward-deployed engineering  •  Automation & dashboards
+🎓 Computer Science Student • Creative Technologist • Growth Engineer
 
-📷  Photography & videography  •  Story-driven vlogging
+🌱 Growth • Forward-deployed engineering • Automation & dashboards
 
-🎮  Keyboards & PC building  •  Speedcubing
+📷 Photography & videography • Story-driven vlogging
 
-![banner](assets/droptower.webp)
+🎮 Keyboards & PC building • Speedcubing
+
+    </td>
+    <td valign="middle">
+      <img src="assets/droptower.webp" alt="Drop tower" width="320" />
+    </td>
+  </tr>
+</table>
